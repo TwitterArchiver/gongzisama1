@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1701997020469399552",
+    "conversation_id": "2077629823070154881",
+    "created_at": "2026-07-16T09:12:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T10:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077682859423515045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2066715278873088000",
+          "start": 0,
+          "username": "AliceMeWu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077682859423515045",
+    "in_reply_to_user_id": "2066715278873088000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077629823070154881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AliceMeWu 策划药从来也不安全啊😅designer drug本来就是指表外（合法）的毒品结构相似物，除了合法性和毒品本来就没有任何区别。不存在策划药是弱毒的概念，有的结构甚至比非法的原型物更危险😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701997020469399552",
+        "conversation_id": "2077629823070154881",
+        "created_at": "2026-07-16T09:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077682859423515045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2066715278873088000",
+              "start": 0,
+              "username": "AliceMeWu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077682859423515045",
+        "in_reply_to_user_id": "2066715278873088000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077629823070154881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AliceMeWu 策划药从来也不安全啊😅designer drug本来就是指表外（合法）的毒品结构相似物，除了合法性和毒品本来就没有任何区别。不存在策划药是弱毒的概念，有的结构甚至比非法的原型物更危险😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066715278873088000",
+        "conversation_id": "2077629823070154881",
+        "created_at": "2026-07-16T05:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T06:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077629823070154881"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077629823070154881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1699,
+          "like_count": 26,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天从朋友那里得知之前我列表的一个女生接触了策划药后就越来越堕落了，od的尽头可能真的是xd？策划药实际上就是没被列管的毒品吧我也不太懂这些。然后很贵嗯，为了维持买💊的资金她开始倒卖💊，拉人入坑，还有卖福接线下啥的。难受啊以前她不是这样的😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-13T16:31:38.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "马斯克还我账号",
+        "id": "1701997020469399552",
+        "location": "北京",
+        "name": "x-square 「公子」一世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077601684377976832/x9-9fTbr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 17,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "gongzisama1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-16T02:52:43.000Z",
+        "description": "我的人生充满了痛苦 16⬆️OD ZC ZS 精神疾病 休学中 我是女生 这是我第4个号了 我没有什么朋友 对不起不加墙内呀 被盒过有心理阴影谢谢宝宝们理解😭想和同类互fo🥹",
+        "id": "2066715278873088000",
+        "name": "アイレス🦴",
+        "pinned_tweet_id": "2069465574938390584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071797410100379648/8bPabf67_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 162,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 264
+        },
+        "url": "",
+        "username": "AliceMeWu",
+        "verified": false
+      }
+    ]
+  }
+}

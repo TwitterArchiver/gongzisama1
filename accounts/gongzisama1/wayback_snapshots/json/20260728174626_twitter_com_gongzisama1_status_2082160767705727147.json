@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1701997020469399552",
+    "conversation_id": "2082157955718549682",
+    "created_at": "2026-07-28T17:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T18:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082160767705727147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1983197154660495365",
+          "start": 0,
+          "username": "RainRain0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082160767705727147",
+    "in_reply_to_user_id": "1983197154660495365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082157955718549682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainRain0v0 这东西真的有用吗🧐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1615,
+        "media_key": "3_2082157947719958528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVPnygawAAMIpS.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701997020469399552",
+        "conversation_id": "2082157955718549682",
+        "created_at": "2026-07-28T17:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082160767705727147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1983197154660495365",
+              "start": 0,
+              "username": "RainRain0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082160767705727147",
+        "in_reply_to_user_id": "1983197154660495365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082157955718549682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainRain0v0 这东西真的有用吗🧐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082157947719958528"
+          ]
+        },
+        "author_id": "1983197154660495365",
+        "conversation_id": "2082157955718549682",
+        "created_at": "2026-07-28T17:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082157955718549682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/znEmKaPqnK",
+              "end": 34,
+              "expanded_url": "https://x.com/RainRain0v0/status/2082157955718549682/photo/1",
+              "media_key": "3_2082157947719958528",
+              "start": 11,
+              "url": "https://t.co/znEmKaPqnK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082157955718549682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁给我买这个我嫁给他 https://t.co/znEmKaPqnK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-13T16:31:38.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "账号回来了 主号@xx1012000456\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/lzROBqdeKL 大概几天统一回复一次\n策划药官方：@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "xx1012000456"
+              },
+              {
+                "end": 112,
+                "start": 98,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 80,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 57,
+                "url": "https://t.co/lzROBqdeKL"
+              }
+            ]
+          }
+        },
+        "id": "1701997020469399552",
+        "location": "北京",
+        "name": "x-square 「公子」一世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077781062726651904/aWfzE-lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 195,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "gongzisama1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T15:40:33.000Z",
+        "description": "🚪88 除口令不回",
+        "id": "1983197154660495365",
+        "name": "雨rain",
+        "pinned_tweet_id": "2080979641570123801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070555210632798208/aliq5AAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2309,
+          "following_count": 20,
+          "like_count": 2238,
+          "listed_count": 7,
+          "media_count": 69,
+          "tweet_count": 358
+        },
+        "url": "",
+        "username": "RainRain0v0",
+        "verified": false
+      }
+    ]
+  }
+}

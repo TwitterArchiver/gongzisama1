@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078902224202436608",
+        "3_2078902901033041920",
+        "3_2078904017716174848",
+        "3_2078904709495377920"
+      ]
+    },
+    "author_id": "1701997020469399552",
+    "conversation_id": "2078905194390470799",
+    "created_at": "2026-07-19T18:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T19:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078905194390470799"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DS3DFTsOOv",
+          "end": 172,
+          "expanded_url": "https://x.com/gongzisama1/status/2078905194390470799/photo/1",
+          "media_key": "3_2078902224202436608",
+          "start": 149,
+          "url": "https://t.co/DS3DFTsOOv"
+        },
+        {
+          "display_url": "pic.x.com/DS3DFTsOOv",
+          "end": 172,
+          "expanded_url": "https://x.com/gongzisama1/status/2078905194390470799/photo/1",
+          "media_key": "3_2078902901033041920",
+          "start": 149,
+          "url": "https://t.co/DS3DFTsOOv"
+        },
+        {
+          "display_url": "pic.x.com/DS3DFTsOOv",
+          "end": 172,
+          "expanded_url": "https://x.com/gongzisama1/status/2078905194390470799/photo/1",
+          "media_key": "3_2078904017716174848",
+          "start": 149,
+          "url": "https://t.co/DS3DFTsOOv"
+        },
+        {
+          "display_url": "pic.x.com/DS3DFTsOOv",
+          "end": 172,
+          "expanded_url": "https://x.com/gongzisama1/status/2078905194390470799/photo/1",
+          "media_key": "3_2078904709495377920",
+          "start": 149,
+          "url": "https://t.co/DS3DFTsOOv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078905194390470799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.含有罂粟壳和麻黄，有一点o的价值，但容易高血压头疼\n2.太正常了，港美29t是58t愈美😅你超量超的太多了\n3.一定是有风险的，只是相对比较小。这又说回来优格的客户近两百个，只有我和于小姐被判刑。就看谁倒霉被锤子砸了\n4.按之前右美的剂量1/2-2/3吧，虽然都是15mg但是普遍反应药效强烈 https://t.co/DS3DFTsOOv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2078902224202436608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNm-jvRbEAAhIYs.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2078902901033041920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNm_LIqagAAtN9g.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2078904017716174848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNnAMIoa4AAf1Oq.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2078904709495377920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNnA0Ztb0AAxoC_.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078902224202436608",
+            "3_2078902901033041920",
+            "3_2078904017716174848",
+            "3_2078904709495377920"
+          ]
+        },
+        "author_id": "1701997020469399552",
+        "conversation_id": "2078905194390470799",
+        "created_at": "2026-07-19T18:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T19:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078905194390470799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DS3DFTsOOv",
+              "end": 172,
+              "expanded_url": "https://x.com/gongzisama1/status/2078905194390470799/photo/1",
+              "media_key": "3_2078902224202436608",
+              "start": 149,
+              "url": "https://t.co/DS3DFTsOOv"
+            },
+            {
+              "display_url": "pic.x.com/DS3DFTsOOv",
+              "end": 172,
+              "expanded_url": "https://x.com/gongzisama1/status/2078905194390470799/photo/1",
+              "media_key": "3_2078902901033041920",
+              "start": 149,
+              "url": "https://t.co/DS3DFTsOOv"
+            },
+            {
+              "display_url": "pic.x.com/DS3DFTsOOv",
+              "end": 172,
+              "expanded_url": "https://x.com/gongzisama1/status/2078905194390470799/photo/1",
+              "media_key": "3_2078904017716174848",
+              "start": 149,
+              "url": "https://t.co/DS3DFTsOOv"
+            },
+            {
+              "display_url": "pic.x.com/DS3DFTsOOv",
+              "end": 172,
+              "expanded_url": "https://x.com/gongzisama1/status/2078905194390470799/photo/1",
+              "media_key": "3_2078904709495377920",
+              "start": 149,
+              "url": "https://t.co/DS3DFTsOOv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078905194390470799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.含有罂粟壳和麻黄，有一点o的价值，但容易高血压头疼\n2.太正常了，港美29t是58t愈美😅你超量超的太多了\n3.一定是有风险的，只是相对比较小。这又说回来优格的客户近两百个，只有我和于小姐被判刑。就看谁倒霉被锤子砸了\n4.按之前右美的剂量1/2-2/3吧，虽然都是15mg但是普遍反应药效强烈 https://t.co/DS3DFTsOOv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-13T16:31:38.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "马斯克还我账号 前世@xx1012000456\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/lzROBqdeKL 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "xx1012000456"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 82,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 59,
+                "url": "https://t.co/lzROBqdeKL"
+              }
+            ]
+          }
+        },
+        "id": "1701997020469399552",
+        "location": "北京",
+        "name": "x-square 「公子」一世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077781062726651904/aWfzE-lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 152,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "gongzisama1",
+        "verified": false
+      }
+    ]
+  }
+}

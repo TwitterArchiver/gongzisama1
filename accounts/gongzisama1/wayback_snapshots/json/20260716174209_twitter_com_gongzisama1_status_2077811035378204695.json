@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077806143603388416"
+      ]
+    },
+    "author_id": "1701997020469399552",
+    "conversation_id": "2077811035378204695",
+    "created_at": "2026-07-16T17:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T18:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077811035378204695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5zezCNMD40",
+          "end": 167,
+          "expanded_url": "https://x.com/gongzisama1/status/2077811035378204695/photo/1",
+          "media_key": "3_2077806143603388416",
+          "start": 144,
+          "url": "https://t.co/5zezCNMD40"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077811035378204695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.这可是大难题😅\n从药理学上推论，上午服用的药物近12h小时后应该只有美金刚没有出半衰期，美金刚又是最不常见引起欣快感的药物，上午的药物可能性几乎为0\n奥氮平是抗精神病药物，不可能导致欣快\n从用药看您是一位双相患者？\n最大的可能你是一位双相患者，且正好当时有躁狂发作被误认为药物作用？ https://t.co/5zezCNMD40"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2077806143603388416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXZrc2asAAPgvY.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077806143603388416"
+          ]
+        },
+        "author_id": "1701997020469399552",
+        "conversation_id": "2077811035378204695",
+        "created_at": "2026-07-16T17:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T18:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077811035378204695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5zezCNMD40",
+              "end": 167,
+              "expanded_url": "https://x.com/gongzisama1/status/2077811035378204695/photo/1",
+              "media_key": "3_2077806143603388416",
+              "start": 144,
+              "url": "https://t.co/5zezCNMD40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077811035378204695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.这可是大难题😅\n从药理学上推论，上午服用的药物近12h小时后应该只有美金刚没有出半衰期，美金刚又是最不常见引起欣快感的药物，上午的药物可能性几乎为0\n奥氮平是抗精神病药物，不可能导致欣快\n从用药看您是一位双相患者？\n最大的可能你是一位双相患者，且正好当时有躁狂发作被误认为药物作用？ https://t.co/5zezCNMD40"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-13T16:31:38.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "马斯克还我账号 前世@xx1012000456\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/lzROBqdeKL 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "xx1012000456"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 82,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 59,
+                "url": "https://t.co/lzROBqdeKL"
+              }
+            ]
+          }
+        },
+        "id": "1701997020469399552",
+        "location": "北京",
+        "name": "x-square 「公子」一世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077781062726651904/aWfzE-lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 103,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "gongzisama1",
+        "verified": false
+      }
+    ]
+  }
+}

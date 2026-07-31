@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1701997020469399552",
+    "conversation_id": "2077671653123752186",
+    "created_at": "2026-07-16T11:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T12:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077724742048719216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1959320046922305536",
+          "start": 0,
+          "username": "6y6s2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077724742048719216",
+    "in_reply_to_user_id": "1959320046922305536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077671653123752186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6y6s2006 我号没了，私一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2077671633926385664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVfV9QWcAAGo81.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701997020469399552",
+        "conversation_id": "2077671653123752186",
+        "created_at": "2026-07-16T11:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077724742048719216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1959320046922305536",
+              "start": 0,
+              "username": "6y6s2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077724742048719216",
+        "in_reply_to_user_id": "1959320046922305536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077671653123752186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6y6s2006 我号没了，私一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077671633926385664"
+          ]
+        },
+        "author_id": "1959320046922305536",
+        "conversation_id": "2077671653123752186",
+        "created_at": "2026-07-16T08:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077671653123752186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdUOeyqD6u",
+              "end": 39,
+              "expanded_url": "https://x.com/6y6s2006/status/2077671653123752186/photo/1",
+              "media_key": "3_2077671633926385664",
+              "start": 16,
+              "url": "https://t.co/hdUOeyqD6u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077671653123752186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还在玩啥七氟烷，玩点高端的好吗 https://t.co/hdUOeyqD6u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-13T16:31:38.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "马斯克还我账号 前世@xx1012000456\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/lzROBqdeKL 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "xx1012000456"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 82,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 59,
+                "url": "https://t.co/lzROBqdeKL"
+              }
+            ]
+          }
+        },
+        "id": "1701997020469399552",
+        "location": "北京",
+        "name": "x-square 「公子」一世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077601684377976832/x9-9fTbr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 71,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "gongzisama1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-23T18:21:23.000Z",
+        "description": "上头电子烟新品上市，支持批发原料，不支持技术支持✈️@telas657891",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "telas657891"
+              }
+            ]
+          }
+        },
+        "id": "1959320046922305536",
+        "location": "@telas657891",
+        "name": "上头电子烟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026569540230938624/Azjp5qBf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 12,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "6y6s2006",
+        "verified": false
+      }
+    ]
+  }
+}

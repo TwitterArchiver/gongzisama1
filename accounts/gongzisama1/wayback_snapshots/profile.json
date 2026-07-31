@@ -1,0 +1,34 @@
+{
+  "name": "x-square 「公子」一世",
+  "username": "@gongzisama1",
+  "bio": "账号回来了 主号@xx1012000456 od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机 提问箱：http://ngl.link/gongzisama 大概几天统一回复一次 策划药官方：@mingrentangRC",
+  "location": "北京",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 21,
+        "start": 8,
+        "username": "xx1012000456"
+      },
+      {
+        "end": 112,
+        "start": 98,
+        "username": "mingrentangRC"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "ngl.link/gongzisama",
+        "end": 80,
+        "expanded_url": "http://ngl.link/gongzisama",
+        "start": 57,
+        "url": "https://t.co/lzROBqdeKL"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2077781062726651904/aWfzE-lw_normal.jpg"
+}

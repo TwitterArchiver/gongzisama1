@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1701997020469399552",
+    "conversation_id": "2081789949414985932",
+    "created_at": "2026-07-27T17:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T18:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081789949414985932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2064752526495457280",
+          "start": 0,
+          "username": "SachiMizz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/SachiMizz/stat…",
+          "end": 130,
+          "expanded_url": "https://twitter.com/SachiMizz/status/2081771570327089519",
+          "start": 107,
+          "url": "https://t.co/zcgUm60Uqx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081789949414985932",
+    "in_reply_to_user_id": "2064752526495457280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081771570327089519",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SachiMizz sachimi纱知凛小姐是名人堂梦工场RC正在审核引进的准·联席合伙人，望周知\n「公子」及名人堂RC对sachimi纱知凛小姐的信誉与产品进行无上限担保，以表示我们对合作伙伴毫无保留的支持😋 https://t.co/zcgUm60Uqx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1048,
+        "media_key": "3_2081771562932588544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPwNPAbUAAAgpm.jpg",
+        "width": 736
+      },
+      {
+        "height": 1290,
+        "media_key": "3_2081771562890620928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPwNO2a8AAQBqY.jpg",
+        "width": 997
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081771562894872576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPwNO3b0AA4lW9.jpg",
+        "width": 1062
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081771562878021632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPwNOzasAASkRg.jpg",
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701997020469399552",
+        "conversation_id": "2081789949414985932",
+        "created_at": "2026-07-27T17:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081789949414985932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2064752526495457280",
+              "start": 0,
+              "username": "SachiMizz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/SachiMizz/stat…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/SachiMizz/status/2081771570327089519",
+              "start": 107,
+              "url": "https://t.co/zcgUm60Uqx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081789949414985932",
+        "in_reply_to_user_id": "2064752526495457280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081771570327089519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SachiMizz sachimi纱知凛小姐是名人堂梦工场RC正在审核引进的准·联席合伙人，望周知\n「公子」及名人堂RC对sachimi纱知凛小姐的信誉与产品进行无上限担保，以表示我们对合作伙伴毫无保留的支持😋 https://t.co/zcgUm60Uqx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081771562932588544",
+            "3_2081771562890620928",
+            "3_2081771562894872576",
+            "3_2081771562878021632"
+          ]
+        },
+        "author_id": "2064752526495457280",
+        "conversation_id": "2081771570327089519",
+        "created_at": "2026-07-27T15:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081771570327089519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yEdduHURrE",
+              "end": 31,
+              "expanded_url": "https://x.com/SachiMizz/status/2081771570327089519/photo/1",
+              "media_key": "3_2081771562932588544",
+              "start": 8,
+              "url": "https://t.co/yEdduHURrE"
+            },
+            {
+              "display_url": "pic.x.com/yEdduHURrE",
+              "end": 31,
+              "expanded_url": "https://x.com/SachiMizz/status/2081771570327089519/photo/1",
+              "media_key": "3_2081771562890620928",
+              "start": 8,
+              "url": "https://t.co/yEdduHURrE"
+            },
+            {
+              "display_url": "pic.x.com/yEdduHURrE",
+              "end": 31,
+              "expanded_url": "https://x.com/SachiMizz/status/2081771570327089519/photo/1",
+              "media_key": "3_2081771562894872576",
+              "start": 8,
+              "url": "https://t.co/yEdduHURrE"
+            },
+            {
+              "display_url": "pic.x.com/yEdduHURrE",
+              "end": 31,
+              "expanded_url": "https://x.com/SachiMizz/status/2081771570327089519/photo/1",
+              "media_key": "3_2081771562878021632",
+              "start": 8,
+              "url": "https://t.co/yEdduHURrE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081771570327089519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们骗子来了 https://t.co/yEdduHURrE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-13T16:31:38.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "账号回来了 主号@xx1012000456\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/lzROBqdeKL 大概几天统一回复一次\n策划药官方：@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "xx1012000456"
+              },
+              {
+                "end": 112,
+                "start": 98,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 80,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 57,
+                "url": "https://t.co/lzROBqdeKL"
+              }
+            ]
+          }
+        },
+        "id": "1701997020469399552",
+        "location": "北京",
+        "name": "x-square 「公子」一世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077781062726651904/aWfzE-lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 189,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "gongzisama1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T16:53:28.000Z",
+        "description": "",
+        "id": "2064752526495457280",
+        "name": "SachiMi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064753140696797184/1hbEk6nV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 94,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "SachiMizz",
+        "verified": false
+      }
+    ]
+  }
+}

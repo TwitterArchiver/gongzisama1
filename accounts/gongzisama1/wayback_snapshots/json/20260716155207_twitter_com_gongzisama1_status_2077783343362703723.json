@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1701997020469399552",
+    "conversation_id": "2077686229634895943",
+    "created_at": "2026-07-16T15:52:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T16:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077783343362703723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2051288265970569216",
+          "start": 0,
+          "username": "MichiganTech404"
+        },
+        {
+          "end": 28,
+          "id": "1671951520529797120",
+          "start": 17,
+          "username": "sqq1370192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077783343362703723",
+    "in_reply_to_user_id": "2051288265970569216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077723295483588868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MichiganTech404 @sqq1370192 用ai看精神处方是不行的，精神药物理论上不应该和任何精神药物联用，但临床上这太普遍了😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077723291071209473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWOUzHa4AEiqT0.jpg",
+        "width": 242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701997020469399552",
+        "conversation_id": "2077686229634895943",
+        "created_at": "2026-07-16T15:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077783343362703723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2051288265970569216",
+              "start": 0,
+              "username": "MichiganTech404"
+            },
+            {
+              "end": 28,
+              "id": "1671951520529797120",
+              "start": 17,
+              "username": "sqq1370192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077783343362703723",
+        "in_reply_to_user_id": "2051288265970569216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077723295483588868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MichiganTech404 @sqq1370192 用ai看精神处方是不行的，精神药物理论上不应该和任何精神药物联用，但临床上这太普遍了😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077723291071209473"
+          ]
+        },
+        "author_id": "2051288265970569216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2077686229634895943",
+        "created_at": "2026-07-16T11:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077723295483588868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1671951520529797120",
+              "start": 0,
+              "username": "sqq1370192"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/44hecPR62V",
+              "end": 95,
+              "expanded_url": "https://x.com/MichiganTech404/status/2077723295483588868/photo/1",
+              "media_key": "3_2077723291071209473",
+              "start": 72,
+              "url": "https://t.co/44hecPR62V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077723295483588868",
+        "in_reply_to_user_id": "1671951520529797120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077686229634895943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sqq1370192 用处方点评看了下 如果是治疗双向的话处方存在问题\n\n让ChatGPT作为药剂师复核了一遍  有兴趣的话可以自己研究一下 https://t.co/44hecPR62V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-13T16:31:38.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "马斯克还我账号 前世@xx1012000456\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/lzROBqdeKL 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "xx1012000456"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 82,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 59,
+                "url": "https://t.co/lzROBqdeKL"
+              }
+            ]
+          }
+        },
+        "id": "1701997020469399552",
+        "location": "北京",
+        "name": "x-square 「公子」一世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077781062726651904/aWfzE-lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 100,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "gongzisama1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T13:16:56.000Z",
+        "description": "A Libertarian Asking for Death or Death Penalty",
+        "id": "2051288265970569216",
+        "name": "Jin Cheng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051290148214861824/6fcVtiAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 205,
+          "like_count": 2259,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1131
+        },
+        "url": "",
+        "username": "MichiganTech404",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T18:41:40.000Z",
+        "description": "很抽象一个人｜选择性话多 ｜性格多分悪い｜对非人生物过敏｜限制级的碎碎念｜大概是里账号｜東京在住留学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sqq13701922",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sqq13701922",
+                "start": 0,
+                "url": "https://t.co/Ytv7kimvFR"
+              }
+            ]
+          }
+        },
+        "id": "1671951520529797120",
+        "name": "Zzzzzzzi",
+        "pinned_tweet_id": "1947152531140104461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070880503348232192/1dskdMXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 61,
+          "like_count": 1844,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1622
+        },
+        "url": "https://t.co/Ytv7kimvFR",
+        "username": "sqq1370192",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1701997020469399552",
+    "conversation_id": "2081560613311176913",
+    "created_at": "2026-07-27T02:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T03:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081560613311176913"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/4ksti7/status/…",
+          "end": 133,
+          "expanded_url": "https://twitter.com/4ksti7/status/2081481336930595235",
+          "start": 110,
+          "url": "https://t.co/iDM3j8eGiD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081560613311176913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081481336930595235",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然不知道她是怎么得出这个结论的，不过她说的话是完全正确的\nSSRI/SNRI/SDNRI是完全有减肥潜力（副作用？）的药物，参考西布曲明\n虽然抖人神人多，但不要带着情绪攻击别人的观点😅\nSB偶尔也会说出无比正确的话😅 https://t.co/iDM3j8eGiD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 994,
+        "media_key": "3_2081481322334412800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLoPAhaYAAZGpi.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1063,
+        "media_key": "3_2081481322384830464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLoPAtbsAADIB1.jpg",
+        "width": 1044
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701997020469399552",
+        "conversation_id": "2081560613311176913",
+        "created_at": "2026-07-27T02:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081560613311176913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/4ksti7/status/…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/4ksti7/status/2081481336930595235",
+              "start": 110,
+              "url": "https://t.co/iDM3j8eGiD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081560613311176913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081481336930595235",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然不知道她是怎么得出这个结论的，不过她说的话是完全正确的\nSSRI/SNRI/SDNRI是完全有减肥潜力（副作用？）的药物，参考西布曲明\n虽然抖人神人多，但不要带着情绪攻击别人的观点😅\nSB偶尔也会说出无比正确的话😅 https://t.co/iDM3j8eGiD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081481322334412800",
+            "3_2081481322384830464"
+          ]
+        },
+        "author_id": "2075312744417632256",
+        "conversation_id": "2081481336930595235",
+        "created_at": "2026-07-26T20:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T21:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081481336930595235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJq0p4JgSF",
+              "end": 80,
+              "expanded_url": "https://x.com/4ksti7/status/2081481336930595235/photo/1",
+              "media_key": "3_2081481322334412800",
+              "start": 57,
+              "url": "https://t.co/yJq0p4JgSF"
+            },
+            {
+              "display_url": "pic.x.com/yJq0p4JgSF",
+              "end": 80,
+              "expanded_url": "https://x.com/4ksti7/status/2081481336930595235/photo/1",
+              "media_key": "3_2081481322384830464",
+              "start": 57,
+              "url": "https://t.co/yJq0p4JgSF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081481336930595235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 749,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种人脑残不，不推荐又说出来，磕舍曲林不就是害人吗，鉴定为医院开了盒舍曲林然后吃了一粒吐了就说自己磕药减肥😹😹😹 https://t.co/yJq0p4JgSF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-13T16:31:38.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "账号回来了 主号@xx1012000456\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/lzROBqdeKL 大概几天统一回复一次\n策划药官方：@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "xx1012000456"
+              },
+              {
+                "end": 112,
+                "start": 98,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 80,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 57,
+                "url": "https://t.co/lzROBqdeKL"
+              }
+            ]
+          }
+        },
+        "id": "1701997020469399552",
+        "location": "北京",
+        "name": "x-square 「公子」一世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077781062726651904/aWfzE-lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 179,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "gongzisama1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 253,
+          "like_count": 1152,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      }
+    ]
+  }
+}
