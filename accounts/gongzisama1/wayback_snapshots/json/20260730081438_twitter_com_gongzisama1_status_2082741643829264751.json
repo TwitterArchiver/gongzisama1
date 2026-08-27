@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1701997020469399552",
+    "conversation_id": "2082739965671387280",
+    "created_at": "2026-07-30T08:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T09:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082741643829264751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946149148878852096",
+          "start": 0,
+          "username": "todorokidoya1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082741643829264751",
+    "in_reply_to_user_id": "1946149148878852096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082739965671387280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@todorokidoya1 看啥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2082739960696934400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdg9ZzaEAAPa0O.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2082739960646688768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdg9ZnbYAAo6EP.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2082739960650838016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdg9ZoasAATRym.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701997020469399552",
+        "conversation_id": "2082739965671387280",
+        "created_at": "2026-07-30T08:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082741643829264751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946149148878852096",
+              "start": 0,
+              "username": "todorokidoya1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082741643829264751",
+        "in_reply_to_user_id": "1946149148878852096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082739965671387280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@todorokidoya1 看啥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082739960696934400",
+            "3_2082739960646688768",
+            "3_2082739960650838016"
+          ]
+        },
+        "author_id": "1946149148878852096",
+        "conversation_id": "2082739965671387280",
+        "created_at": "2026-07-30T08:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082739965671387280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eLp7WXVdDG",
+              "end": 42,
+              "expanded_url": "https://x.com/todorokidoya1/status/2082739965671387280/photo/1",
+              "media_key": "3_2082739960696934400",
+              "start": 19,
+              "url": "https://t.co/eLp7WXVdDG"
+            },
+            {
+              "display_url": "pic.x.com/eLp7WXVdDG",
+              "end": 42,
+              "expanded_url": "https://x.com/todorokidoya1/status/2082739965671387280/photo/1",
+              "media_key": "3_2082739960646688768",
+              "start": 19,
+              "url": "https://t.co/eLp7WXVdDG"
+            },
+            {
+              "display_url": "pic.x.com/eLp7WXVdDG",
+              "end": 42,
+              "expanded_url": "https://x.com/todorokidoya1/status/2082739965671387280/photo/1",
+              "media_key": "3_2082739960650838016",
+              "start": 19,
+              "url": "https://t.co/eLp7WXVdDG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082739965671387280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "有没有懂的互关帮我看一下谢谢呀🥺🥺🥺 https://t.co/eLp7WXVdDG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-13T16:31:38.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "账号回来了 主号@xx1012000456\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/lzROBqdeKL 大概几天统一回复一次\n策划药官方：@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "xx1012000456"
+              },
+              {
+                "end": 112,
+                "start": 98,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 80,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 57,
+                "url": "https://t.co/lzROBqdeKL"
+              }
+            ]
+          }
+        },
+        "id": "1701997020469399552",
+        "location": "北京",
+        "name": "x-square 「公子」一世",
+        "pinned_tweet_id": "2082473811677737306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077781062726651904/aWfzE-lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 197,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "gongzisama1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T10:05:17.000Z",
+        "description": "如此懦弱…\n\n小号@o0omftft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "o0omftft"
+              }
+            ]
+          }
+        },
+        "id": "1946149148878852096",
+        "location": "绘画世界",
+        "name": "0o0",
+        "pinned_tweet_id": "2079931487265374536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947494571715461120/yN7x2Gqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 578,
+          "like_count": 59358,
+          "listed_count": 0,
+          "media_count": 395,
+          "tweet_count": 4172
+        },
+        "url": "",
+        "username": "todorokidoya1",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1701997020469399552",
+    "conversation_id": "2086398589748781404",
+    "created_at": "2026-08-09T11:35:37.000Z",
+    "display_text_range": [
+      15,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T12:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086416105619505357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986452594206838785",
+          "start": 0,
+          "username": "Idontselldrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086416105619505357",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086398589748781404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontselldrug 坏了，我是觉得控制好剂量DNP可能是一个选择😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3120,
+        "media_key": "3_2086398567024132096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRgcUdbgAArenJ.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3120,
+        "media_key": "3_2086398578390597633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRgc-zaAAEsy0s.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701997020469399552",
+        "conversation_id": "2086398589748781404",
+        "created_at": "2026-08-09T11:35:37.000Z",
+        "display_text_range": [
+          15,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086416105619505357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086416105619505357",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086398589748781404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 坏了，我是觉得控制好剂量DNP可能是一个选择😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086398567024132096",
+            "3_2086398578390597633"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2086398589748781404",
+        "created_at": "2026-08-09T10:26:01.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T11:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086398589748781404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mj18DMTv0K",
+              "end": 167,
+              "expanded_url": "https://x.com/Idontselldrug/status/2086398589748781404/photo/1",
+              "media_key": "3_2086398567024132096",
+              "start": 144,
+              "url": "https://t.co/Mj18DMTv0K"
+            },
+            {
+              "display_url": "pic.x.com/Mj18DMTv0K",
+              "end": 167,
+              "expanded_url": "https://x.com/Idontselldrug/status/2086398589748781404/photo/1",
+              "media_key": "3_2086398578390597633",
+              "start": 144,
+              "url": "https://t.co/Mj18DMTv0K"
+            },
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2086390476882817253",
+              "start": 168,
+              "url": "https://t.co/mupj2XtEXb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086398589748781404",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086398567024132096"
+          },
+          {
+            "media_key": "3_2086398578390597633"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086390476882817253",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "减肥建议先确保饮食和运动，再考虑加药物\n\n99%的人只需要glp1抑制食欲就可以了，替尔泊肽比司美格鲁肽好，多的gip靶点不仅能加强效果还能抗恶心\n\n如果你是那1%，就想用点猛药，可以看p2我写的\n\n泻药不好，不要吃\n\n篇幅不足写不下，如果你想可以私信\n\n我不是医生，以上不构成用药建议 https://t.co/Mj18DMTv0K https://t.co/mupj2XtEXb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-13T16:31:38.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\n账号回来了 主号@xx1012000456\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/lzROBqcGVd 大概几天统一回复一次\n策划药官方：@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "xx1012000456"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 95,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 72,
+                "url": "https://t.co/lzROBqcGVd"
+              }
+            ]
+          }
+        },
+        "id": "1701997020469399552",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2086416105619505357",
+        "name": "x-square 「公子」一世",
+        "pinned_tweet_id": "2082473811677737306",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077781062726651904/aWfzE-lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 240,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 161
+        },
+        "url": "",
+        "username": "gongzisama1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2086398589748781404",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 315,
+          "like_count": 3043,
+          "listed_count": 1,
+          "media_count": 555,
+          "tweet_count": 3478
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

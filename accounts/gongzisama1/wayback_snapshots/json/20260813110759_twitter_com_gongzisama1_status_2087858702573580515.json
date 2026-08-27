@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1701997020469399552",
+    "conversation_id": "2087828783940424150",
+    "created_at": "2026-08-13T11:07:59.000Z",
+    "display_text_range": [
+      12,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T12:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087858702573580515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1665304321066684416",
+          "start": 0,
+          "username": "OoOooo0518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087858702573580515",
+    "in_reply_to_user_id": "1665304321066684416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087828783940424150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OoOooo0518 请问您的数学是怎么算出来它是30t的😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087828775941902336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPl1Nb3bEAAuFIf.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087828775954419712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPl1Nb6aEAAszXk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701997020469399552",
+        "conversation_id": "2087828783940424150",
+        "created_at": "2026-08-13T11:07:59.000Z",
+        "display_text_range": [
+          12,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T12:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087858702573580515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1665304321066684416",
+              "start": 0,
+              "username": "OoOooo0518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087858702573580515",
+        "in_reply_to_user_id": "1665304321066684416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087828783940424150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OoOooo0518 请问您的数学是怎么算出来它是30t的😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087828775941902336",
+            "3_2087828775954419712"
+          ]
+        },
+        "author_id": "1665304321066684416",
+        "conversation_id": "2087828783940424150",
+        "created_at": "2026-08-13T09:09:06.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087828783940424150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hJXPk0MC21",
+              "end": 96,
+              "expanded_url": "https://x.com/OoOooo0518/status/2087828783940424150/photo/1",
+              "media_key": "3_2087828775941902336",
+              "start": 73,
+              "url": "https://t.co/hJXPk0MC21"
+            },
+            {
+              "display_url": "pic.x.com/hJXPk0MC21",
+              "end": 96,
+              "expanded_url": "https://x.com/OoOooo0518/status/2087828783940424150/photo/1",
+              "media_key": "3_2087828775954419712",
+              "start": 73,
+              "url": "https://t.co/hJXPk0MC21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087828783940424150",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087828775941902336"
+          },
+          {
+            "media_key": "3_2087828775954419712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1672,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想吃愈美片的有福了 买这个糖浆 一瓶等于30t愈美片 我这边康佰家药店是卖25一瓶 最主要的是：它不查身份证！！它不查身份证！！它不查身份证！！ https://t.co/hJXPk0MC21"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-13T16:31:38.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\n账号回来了 主号@xx1012000456\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/lzROBqcGVd 大概几天统一回复一次\n策划药官方：@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "xx1012000456"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 95,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 72,
+                "url": "https://t.co/lzROBqcGVd"
+              }
+            ]
+          }
+        },
+        "id": "1701997020469399552",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2087858702573580515",
+        "name": "x-square 「公子」一世",
+        "pinned_tweet_id": "2082473811677737306",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077781062726651904/aWfzE-lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 284,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 174
+        },
+        "url": "",
+        "username": "gongzisama1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-04T10:27:54.000Z",
+        "description": "mtf 重抑重焦 你可以叫我O泡（大一休学中 欢迎互fo 我再次重生的妹妹: @QianQian_TwT\n免费咨询药物推荐电报联系https://t.co/CIpMy1FYM9或X私信\n我不太懂药理学但是能o和不能o的药我都尝试过了，嗑药前可以先问问我！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QianQian_TwT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/melody_tik",
+                "end": 88,
+                "expanded_url": "https://t.me/melody_tik",
+                "start": 65,
+                "url": "https://t.co/CIpMy1FYM9"
+              }
+            ]
+          }
+        },
+        "id": "1665304321066684416",
+        "is_identity_verified": false,
+        "location": "杭州",
+        "most_recent_tweet_id": "2087828783940424150",
+        "name": "OoOooo",
+        "pinned_tweet_id": "2083268021070786824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1665304321066684416/1770916243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407067441381376/qdkgUI2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 328,
+          "like_count": 2683,
+          "listed_count": 2,
+          "media_count": 189,
+          "tweet_count": 895
+        },
+        "url": "",
+        "username": "OoOooo0518",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

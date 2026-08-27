@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1701997020469399552",
+    "conversation_id": "2090442305501364611",
+    "created_at": "2026-08-20T14:14:18.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T15:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090442305501364611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IYDKMIGTHTKY23…",
+          "end": 105,
+          "expanded_url": "https://twitter.com/IYDKMIGTHTKY23/status/2090100961440333901",
+          "start": 82,
+          "url": "https://t.co/a02tbbL8wB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090442305501364611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090100961440333901",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有过性行为：×\n有过男朋友：×\n有过女朋友：×\n喝过酒：√\n挂过科： √\n抽过烟/用过电子烟：√\n吻过别人：×\n被课堂赶出去：√\n考试作弊：√\n偷偷溜出家门： √ https://t.co/a02tbbL8wB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701997020469399552",
+        "conversation_id": "2090442305501364611",
+        "created_at": "2026-08-20T14:14:18.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090442305501364611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IYDKMIGTHTKY23…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/IYDKMIGTHTKY23/status/2090100961440333901",
+              "start": 82,
+              "url": "https://t.co/a02tbbL8wB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090442305501364611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090100961440333901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：×\n有过男朋友：×\n有过女朋友：×\n喝过酒：√\n挂过科： √\n抽过烟/用过电子烟：√\n吻过别人：×\n被课堂赶出去：√\n考试作弊：√\n偷偷溜出家门： √ https://t.co/a02tbbL8wB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073420644109504513",
+        "conversation_id": "2090100961440333901",
+        "created_at": "2026-08-19T15:37:56.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090100961440333901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Reinai_/status…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/Reinai_/status/2089837646550020427",
+              "start": 113,
+              "url": "https://t.co/wMRGE42WFj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090100961440333901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2330,
+          "like_count": 16,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089837646550020427",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：✔️\n有过男朋友：✔️\n有过女朋友：✔️\n嗑过药：✔️\n喝过酒：✔️\n挂过科： ✔️\n去过夜店：✔️\n抽过烟/用过电子烟：✔️\n吻过别人：✔️\n被留堂：✔️\n被课堂赶出去：✔️\n考试作弊：✔️\n偷偷溜出家门：✔️ https://t.co/wMRGE42WFj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-13T16:31:38.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\n账号回来了 主号@xx1012000456\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/lzROBqcGVd 大概几天统一回复一次\n策划药官方：@mingrentangRC\n名人堂RC开始出品，零售业务可咨询沐雨，也可联系我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "xx1012000456"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 95,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 72,
+                "url": "https://t.co/lzROBqcGVd"
+              }
+            ]
+          }
+        },
+        "id": "1701997020469399552",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2090442305501364611",
+        "name": "x-square 「公子」一世",
+        "pinned_tweet_id": "2082473811677737306",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077781062726651904/aWfzE-lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 322,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 217
+        },
+        "url": "",
+        "username": "gongzisama1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-04T15:10:17.000Z",
+        "description": "我是歐姆\n同成分會互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/omoeggg",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/omoeggg",
+                "start": 0,
+                "url": "https://t.co/05iFF4nElL"
+              }
+            ]
+          }
+        },
+        "id": "2073420644109504513",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090267733783204349",
+        "name": "？（3.0）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073420644109504513/1783895478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080376678682087424/stGTfM2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 453,
+          "like_count": 4884,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 241
+        },
+        "url": "https://t.co/05iFF4nElL",
+        "username": "IYDKMIGTHTKY23",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

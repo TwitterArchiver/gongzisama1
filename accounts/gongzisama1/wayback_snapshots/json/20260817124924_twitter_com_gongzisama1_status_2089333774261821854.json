@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089333713696063488",
+        "3_2089333713511530496",
+        "3_2089333713607999489",
+        "3_2089333713515769857"
+      ]
+    },
+    "author_id": "1701997020469399552",
+    "conversation_id": "2089333774261821854",
+    "created_at": "2026-08-17T12:49:24.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T13:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089333774261821854"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/X6ZXSxbUcw",
+          "end": 23,
+          "expanded_url": "https://x.com/gongzisama1/status/2089333774261821854/photo/1",
+          "media_key": "3_2089333713696063488",
+          "start": 0,
+          "url": "https://t.co/X6ZXSxbUcw"
+        },
+        {
+          "display_url": "pic.x.com/X6ZXSxbUcw",
+          "end": 23,
+          "expanded_url": "https://x.com/gongzisama1/status/2089333774261821854/photo/1",
+          "media_key": "3_2089333713511530496",
+          "start": 0,
+          "url": "https://t.co/X6ZXSxbUcw"
+        },
+        {
+          "display_url": "pic.x.com/X6ZXSxbUcw",
+          "end": 23,
+          "expanded_url": "https://x.com/gongzisama1/status/2089333774261821854/photo/1",
+          "media_key": "3_2089333713607999489",
+          "start": 0,
+          "url": "https://t.co/X6ZXSxbUcw"
+        },
+        {
+          "display_url": "pic.x.com/X6ZXSxbUcw",
+          "end": 23,
+          "expanded_url": "https://x.com/gongzisama1/status/2089333774261821854/photo/1",
+          "media_key": "3_2089333713515769857",
+          "start": 0,
+          "url": "https://t.co/X6ZXSxbUcw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089333774261821854",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2089333713696063488"
+      },
+      {
+        "media_key": "3_2089333713511530496"
+      },
+      {
+        "media_key": "3_2089333713607999489"
+      },
+      {
+        "media_key": "3_2089333713515769857"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/X6ZXSxbUcw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2089333713696063488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7N8V4aAAAhBTD.jpg",
+        "width": 2896
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2089333713511530496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7N8VMaQAAiyN0.jpg",
+        "width": 2896
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2089333713607999489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7N8VjaQAEQDGS.jpg",
+        "width": 2896
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2089333713515769857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7N8VNa8AECuW0.jpg",
+        "width": 2896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089333713696063488",
+            "3_2089333713511530496",
+            "3_2089333713607999489",
+            "3_2089333713515769857"
+          ]
+        },
+        "author_id": "1701997020469399552",
+        "conversation_id": "2089333774261821854",
+        "created_at": "2026-08-17T12:49:24.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T13:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089333774261821854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X6ZXSxbUcw",
+              "end": 23,
+              "expanded_url": "https://x.com/gongzisama1/status/2089333774261821854/photo/1",
+              "media_key": "3_2089333713696063488",
+              "start": 0,
+              "url": "https://t.co/X6ZXSxbUcw"
+            },
+            {
+              "display_url": "pic.x.com/X6ZXSxbUcw",
+              "end": 23,
+              "expanded_url": "https://x.com/gongzisama1/status/2089333774261821854/photo/1",
+              "media_key": "3_2089333713511530496",
+              "start": 0,
+              "url": "https://t.co/X6ZXSxbUcw"
+            },
+            {
+              "display_url": "pic.x.com/X6ZXSxbUcw",
+              "end": 23,
+              "expanded_url": "https://x.com/gongzisama1/status/2089333774261821854/photo/1",
+              "media_key": "3_2089333713607999489",
+              "start": 0,
+              "url": "https://t.co/X6ZXSxbUcw"
+            },
+            {
+              "display_url": "pic.x.com/X6ZXSxbUcw",
+              "end": 23,
+              "expanded_url": "https://x.com/gongzisama1/status/2089333774261821854/photo/1",
+              "media_key": "3_2089333713515769857",
+              "start": 0,
+              "url": "https://t.co/X6ZXSxbUcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089333774261821854",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2089333713696063488"
+          },
+          {
+            "media_key": "3_2089333713511530496"
+          },
+          {
+            "media_key": "3_2089333713607999489"
+          },
+          {
+            "media_key": "3_2089333713515769857"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/X6ZXSxbUcw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-13T16:31:38.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\n账号回来了 主号@xx1012000456\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/lzROBqcGVd 大概几天统一回复一次\n策划药官方：@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "xx1012000456"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 95,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 72,
+                "url": "https://t.co/lzROBqcGVd"
+              }
+            ]
+          }
+        },
+        "id": "1701997020469399552",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2089333774261821854",
+        "name": "x-square 「公子」一世",
+        "pinned_tweet_id": "2082473811677737306",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077781062726651904/aWfzE-lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 297,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 196
+        },
+        "url": "",
+        "username": "gongzisama1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1701997020469399552",
+    "conversation_id": "2082588268575465627",
+    "created_at": "2026-07-30T04:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T05:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082688572281471366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1761769672788340736",
+          "start": 0,
+          "username": "BL100921_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082688572281471366",
+    "in_reply_to_user_id": "1761769672788340736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082588268575465627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BL100921_ 我们od圈传播的也太广泛了🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701997020469399552",
+        "conversation_id": "2082588268575465627",
+        "created_at": "2026-07-30T04:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082688572281471366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1761769672788340736",
+              "start": 0,
+              "username": "BL100921_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082688572281471366",
+        "in_reply_to_user_id": "1761769672788340736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082588268575465627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BL100921_ 我们od圈传播的也太广泛了🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761769672788340736",
+        "conversation_id": "2082588268575465627",
+        "created_at": "2026-07-29T22:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T23:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082588268575465627"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082588268575465627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 229,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "龍到现在为止也没有o💊的习惯，不觉得很神奇嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-13T16:31:38.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "账号回来了 主号@xx1012000456\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/lzROBqdeKL 大概几天统一回复一次\n策划药官方：@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "xx1012000456"
+              },
+              {
+                "end": 112,
+                "start": 98,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 80,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 57,
+                "url": "https://t.co/lzROBqdeKL"
+              }
+            ]
+          }
+        },
+        "id": "1701997020469399552",
+        "location": "北京",
+        "name": "x-square 「公子」一世",
+        "pinned_tweet_id": "2082473811677737306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077781062726651904/aWfzE-lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 198,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 107
+        },
+        "url": "",
+        "username": "gongzisama1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T15:06:47.000Z",
+        "description": "ins https://t.co/MoydH4NJSn\n圈内双性恋双属性k8\n🐲🚪288🉑打視頻验证\n白龍被ta了 现在只有mini龍\n自行辨认真假白龍🫪补药被骗\n祝导管顺利 扣b顺利",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/bl2010921",
+                "end": 27,
+                "expanded_url": "https://www.instagram.com/bl2010921",
+                "start": 4,
+                "url": "https://t.co/MoydH4NJSn"
+              }
+            ]
+          }
+        },
+        "id": "1761769672788340736",
+        "name": "mini龍",
+        "pinned_tweet_id": "2074527926205517889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074114163241267200/la2xu3Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 6,
+          "like_count": 11,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "BL100921_",
+        "verified": true
+      }
+    ]
+  }
+}

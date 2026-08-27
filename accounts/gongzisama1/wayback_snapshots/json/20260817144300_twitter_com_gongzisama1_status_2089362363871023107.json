@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1701997020469399552",
+    "conversation_id": "2089332533318037746",
+    "created_at": "2026-08-17T14:43:00.000Z",
+    "display_text_range": [
+      12,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T15:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089362363871023107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2037817579448807424",
+          "start": 0,
+          "username": "Yuki283113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089362363871023107",
+    "in_reply_to_user_id": "2037817579448807424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089332533318037746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki283113 8成左右走葡萄糖醛酸，1-2成走3A4，0-1成走2D6，我觉得抑制3A4真的效果不大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701997020469399552",
+        "conversation_id": "2089332533318037746",
+        "created_at": "2026-08-17T14:43:00.000Z",
+        "display_text_range": [
+          12,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089362363871023107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2037817579448807424",
+              "start": 0,
+              "username": "Yuki283113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089362363871023107",
+        "in_reply_to_user_id": "2037817579448807424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089332533318037746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki283113 8成左右走葡萄糖醛酸，1-2成走3A4，0-1成走2D6，我觉得抑制3A4真的效果不大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037817579448807424",
+        "conversation_id": "2089332533318037746",
+        "created_at": "2026-08-17T12:44:28.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T13:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089332533318037746"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089332533318037746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以西柚汁到底能不能慢代谢二氢可待因，说是也从CYP2D6代谢，这个有点高深我不太懂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-13T16:31:38.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\n账号回来了 主号@xx1012000456\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/lzROBqcGVd 大概几天统一回复一次\n策划药官方：@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "xx1012000456"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 95,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 72,
+                "url": "https://t.co/lzROBqcGVd"
+              }
+            ]
+          }
+        },
+        "id": "1701997020469399552",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2089362363871023107",
+        "name": "x-square 「公子」一世",
+        "pinned_tweet_id": "2082473811677737306",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077781062726651904/aWfzE-lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 298,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 200
+        },
+        "url": "",
+        "username": "gongzisama1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T09:02:43.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n\n互fo回归，请，会微差成分，全友好\n\n这是第几个了。?",
+        "id": "2037817579448807424",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2089362215123976239",
+        "name": "岐哥，梦想跪了。4.0",
+        "pinned_tweet_id": "2088874163620413586",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037817579448807424/1786884389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084998836246700033/-ARs9g6U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 220,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 190
+        },
+        "url": "",
+        "username": "Yuki283113",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
