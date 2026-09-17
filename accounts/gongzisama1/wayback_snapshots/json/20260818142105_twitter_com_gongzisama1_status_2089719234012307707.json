@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1701997020469399552",
+    "conversation_id": "2089624706215481436",
+    "created_at": "2026-08-18T14:21:05.000Z",
+    "display_text_range": [
+      15,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T15:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089719234012307707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1961351591715639298",
+          "start": 0,
+          "username": "overdose_momo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089719234012307707",
+    "in_reply_to_user_id": "1961351591715639298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089624706215481436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_momo 备纳洛酮也不解决咖啡因的问题啊😅或许应该吃点美托洛尔？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 650,
+        "media_key": "3_2089624694710534144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_WlqobAAAy6Cz.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701997020469399552",
+        "conversation_id": "2089624706215481436",
+        "created_at": "2026-08-18T14:21:05.000Z",
+        "display_text_range": [
+          15,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089719234012307707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1961351591715639298",
+              "start": 0,
+              "username": "overdose_momo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089719234012307707",
+        "in_reply_to_user_id": "1961351591715639298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089624706215481436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_momo 备纳洛酮也不解决咖啡因的问题啊😅或许应该吃点美托洛尔？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089624694710534144"
+          ]
+        },
+        "author_id": "1961351591715639298",
+        "conversation_id": "2089624706215481436",
+        "created_at": "2026-08-18T08:05:27.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T09:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089624706215481436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/plbO4NlWE7",
+              "end": 175,
+              "expanded_url": "https://x.com/overdose_momo/status/2089624706215481436/photo/1",
+              "media_key": "3_2089624694710534144",
+              "start": 152,
+              "url": "https://t.co/plbO4NlWE7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089624706215481436",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089624694710534144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我给咖啡因跪下了真的。\n吃了一瓶白兔难受的整个人都在抖。后悔了。我不该上午喝了奶茶然后又泡了茶叶喝。奶茶的咖啡因+茶叶咖啡因，估算今天摄入350mg+的咖啡因。…茶多酚甚至是280+200=480mg左右。\n手抖到端杯子都端不稳…喝水把水洒了\n吐也没法吐已经消化了，只能多喝水赶紧代谢白兔。以后备纳洛酮 https://t.co/plbO4NlWE7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-13T16:31:38.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\n账号回来了 主号@xx1012000456\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/lzROBqcGVd 大概几天统一回复一次\n策划药官方：@mingrentangRC\n名人堂RC开始出品，零售业务可咨询沐雨，也可联系我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "xx1012000456"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 95,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 72,
+                "url": "https://t.co/lzROBqcGVd"
+              }
+            ]
+          }
+        },
+        "id": "1701997020469399552",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2089719234012307707",
+        "name": "x-square 「公子」一世",
+        "pinned_tweet_id": "2082473811677737306",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077781062726651904/aWfzE-lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 308,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 209
+        },
+        "url": "",
+        "username": "gongzisama1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-29T08:54:16.000Z",
+        "description": "堆放一些od相关或许包括odwiki相关_赛博八字isfp_adhd双相_prbl单推",
+        "id": "1961351591715639298",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089661170970235043",
+        "name": "mo mo",
+        "pinned_tweet_id": "2084519650361315496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1961351591715639298/1764860123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996594009180139521/f19azjrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 24,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "overdose_momo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
